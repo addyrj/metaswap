@@ -1,0 +1,90 @@
+body {
+  
+  /* background-image: linear-gradient(80deg, rgb(5, 124, 172),rgb(199, 10, 114)); */
+  /* background: linear-gradient(45deg, rgb(5, 124, 172),rgb(219, 63, 149)); */
+  /* background: linear-gradient(40deg, #ff966d, #fa538d,#89379c); */
+  background: url(./assets/background.jpg);
+  /* background: rgb(159,132,200);
+background: radial-gradient(circle, rgba(159,132,200,1) 10%, rgba(63,32,85,1) 34%, rgba(85,10,120,1) 77%, rgba(67,103,209,1) 110%); */
+/* background: rgb(159,132,200);
+background: linear-gradient(10deg, rgba(159,132,200,1) 0%, rgba(63,32,85,1) 34%, rgba(85,10,120,1) 67%,  100%); */
+/* background: rgb(159,132,200);
+background: radial-gradient(circle, rgb(53, 41, 70) 0%, rgba(63,32,85,1) 34%, rgb(92, 18, 126) 67%, rgb(48, 70, 135) 100%); */
+
+background: rgb(91, 30, 134);
+
+
+
+
+ 
+ 
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 15px;
+  font-weight: normal;
+
+  line-height: 1em;
+  margin: 0;
+}
+
+.outer {
+  padding: 10px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  border: 5px #333333 solid;
+  padding: 10px;
+  border-radius: 25px;
+  background: rgb(159,132,200);
+background: radial-gradient(circle, rgb(53, 41, 70) 0%, rgba(63,32,85,1) 34%, rgb(92, 18, 126) 67%,);
+}
+
+.input {
+  width: 1;
+  color: #777;
+  padding: 8;
+  margin: 10;
+  width: 200;
+}
+
+.myform {
+  padding: 20px;
+}
+
+.myform input[type="text"],
+.myform textarea {
+  padding: 8px;
+  width: 100%;
+}
+
+.column {
+  padding: 20px;
+  float: left;
+  width: 50%;
+}
+
+.column_aut {
+  padding: 20px;
+  float: left;
+  width: 33%;
+}
+
+.Token_message {
+  display: inline;
+}
+
+.swap {
+  padding: 10px;
+}
+
+.swap_button {
+  float: right;
+}
+
+.markdown {
+  width: 80%;
+  margin: auto;
+}
